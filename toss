@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+bash -lc "$*"
+notify-send "Done"
+paplay /usr/share/sounds/freedesktop/stereo/complete.oga 2> /dev/null
