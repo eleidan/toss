@@ -25,7 +25,7 @@ Ah, cmon, you do want to use it! Try it again! No?
 
 Ok, spawn the following command to get rid of this very usefull app:
 ```
-$ sudo rm /user/bin/toss
+$ sudo rm /usr/bin/toss
 ```
 
 
